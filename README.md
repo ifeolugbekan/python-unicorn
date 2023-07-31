@@ -3,7 +3,7 @@
 - I uploaded the Dataset and did a thorough Data Cleaning and Manipulation.
 - After which i generated effective insights and relationships using the Univariate, Bivariate and Multivariate Analysis.
 - I also made tremedious obervations at each of my generated insights.
-- Finally, i gave an efficient and effective decision-making over recommendations, that if followed through, will definitely yield positive returns.
+- Finally, i gave an efficient and effective decision-making overall recommendations, that if followed through, will definitely yield positive returns.
 - The challenges i encountered were enormous, from data cleaning to insights generation.
 - But i overcame these challenges due to constant hardwork and dedication.
 - Watch this space, as I am working on more huge and complex dataset.
